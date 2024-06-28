@@ -1,0 +1,5 @@
+﻿  员工分组.cpp
+D:\垃圾站\C++\STL常用容器\STL常用容器\员工分组.cpp(46,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\垃圾站\C++\STL常用容器\STL常用容器\员工分组.cpp(55,13): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\垃圾站\C++\STL常用容器\STL常用容器\员工分组.cpp(64,13): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  STL常用容器.vcxproj -> D:\垃圾站\C++\STL常用容器\x64\Debug\STL常用容器.exe

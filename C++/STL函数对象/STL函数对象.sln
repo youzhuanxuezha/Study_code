@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL函数对象", "STL函数对象\STL函数对象.vcxproj", "{0410B6AF-603D-44FA-81D5-EF0F944494F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Debug|x64.ActiveCfg = Debug|x64
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Debug|x64.Build.0 = Debug|x64
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Debug|x86.Build.0 = Debug|Win32
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Release|x64.ActiveCfg = Release|x64
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Release|x64.Build.0 = Release|x64
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Release|x86.ActiveCfg = Release|Win32
+		{0410B6AF-603D-44FA-81D5-EF0F944494F7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20161307-0134-43BB-8A4E-82FB32234DD1}
+	EndGlobalSection
+EndGlobal
